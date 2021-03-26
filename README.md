@@ -1,9 +1,11 @@
 ### Hey! 👋
 
-I'm a Developer who does stuff in Serverless, Terraform, AWS stuff and some Node ⚡
+I'm Toby, a developer who creates infrastructure, containers, code and uses Serverless, Terraform, AWS and Node ⚡
 
-I play around with Discord bots, Slack apis, and some other stuff incl. react.
-I prefer backend to frontend, Lambdas are fun, especially with the AWS SDK
+I play around with API Gateway, Lambdas, databases, storage, systems administration/management and I'm AWS Certified.
+Backend/infrastructure is definitely my strong point, using Serverless and Terraform to provision resources, however I am familliar with frameworks such as React.
+
+Curious? Drop me a message!
 
 Currently working on;
 - Streeem (https://streeem.net) - Video hosting service
