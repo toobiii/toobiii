@@ -8,7 +8,7 @@ Backend/infrastructure is definitely my strong point, using Serverless and Terra
 Curious? Drop me a message!
 
 Currently working on;
-- Streeem (https://streeem.net) - Video hosting service
+- Streeem - Video hosting service
 - ShortenMeee - URL redirection
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=toobiii)](https://github.com/anuraghazra/github-readme-stats)
