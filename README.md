@@ -1,9 +1,9 @@
 ### Hey! 👋
 
-I'm Toby, a developer who creates infrastructure, containers, code and uses Serverless, Terraform, AWS and Node ⚡
+I'm Toby, a developer who creates infrastructure, containers, code and uses Serverless, Terraform, AWS and Node - looking up towards DevOps ⚡
 
-I play around with API Gateway, Lambdas, databases, storage, systems administration/management and I'm AWS Certified.
-Backend/infrastructure is definitely my strong point, using Serverless and Terraform to provision resources, however I am familliar with frameworks such as React.
+I play around with AWS and other Cloud Providers. I hold multiple AWS Certifications - most recently the Solutions Architect Associate certification.
+Architecture, combined with security, is definitely my strong point, using Serverless and Terraform to provision resources, however I am familliar with front-end frameworks such as React.
 
 Curious? Drop me a message!
 
