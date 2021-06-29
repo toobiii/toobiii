@@ -10,7 +10,7 @@ Curious? Drop me a message!
 
 Currently working on;
 - Streeem - Video hosting service
-- ShortenMeee - URL redirection
+- LessThrown - Reducing food waste
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=toobiii)](https://github.com/anuraghazra/github-readme-stats)
 
