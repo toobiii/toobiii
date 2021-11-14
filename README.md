@@ -2,7 +2,7 @@
 
 I'm Toby, a developer who creates infrastructure, containers, code and uses Serverless, Terraform, AWS and Docker - looking up towards Infrastructure/IaC ⚡
 
-I play around with AWS and other Cloud Providers. I've earned my AWS Cloud Practitioner certification and most recently Solutions Architect Associate and AWS Certified: Security Specialty.
+I play around with AWS and other Cloud Providers. I've earned my AWS Cloud Practitioner certification, Solutions Architect Associate, AWS Certified: Security Specialty and most recently AWS SysOps Administrator Associate.
 
 Architecture, combined with security, is definitely my strong point, using Serverless and Terraform to provision resources, however I am also familliar with front-end frameworks such as React.
 
