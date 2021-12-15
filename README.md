@@ -4,7 +4,7 @@ I'm Toby, a developer who creates infrastructure, containers, code and uses Serv
 
 I play around with AWS and other Cloud Providers. I've earned my AWS Cloud Practitioner certification, Solutions Architect Associate, AWS Certified: Security Specialty and most recently AWS SysOps Administrator Associate.
 
-Architecture, combined with security, is definitely my strong point, using Serverless and Terraform to provision resources, however I am also familliar with front-end frameworks such as React.
+Architecture, combined with security, is definitely my strong point, using Terraform with Amazon Web Services to create awesome stacks, however I am also familliar with front-end frameworks such as React.
 
 Curious? Drop me a message!
 
